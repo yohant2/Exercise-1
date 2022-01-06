@@ -1,0 +1,22 @@
+Exercise 1 
+
+# Navigate to your "Documents" folder
+cd ~/Documents
+
+# Create a new folder called "quick-exercise"
+mkdir quick-exercise
+
+# Navigate into that folder
+cd quick-exercise
+
+# Using the text-edit of your choice (e.g., Atom), create a new (empty) file
+# called "constitution.txt" inside the "quick-exercise" folder you made
+# No command for this one!
+
+# List the contents of the folder to verify the new file is there
+ls
+
+# Search online for the text of the US Constitution (while it's still around!)
+# and paste it into the "constitution.txt" file you created. Save your changes in
+# the editor.
+# No command for this one either!
