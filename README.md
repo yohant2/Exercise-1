@@ -1,4 +1,8 @@
-**Exercise-1**
+Exercise 1
+
+This exercise is a brief review of terminal commands. Like all exercises, you can see the answers in the complete branch.
+
+Open up your command-line terminal, and perform the following tasks (no need to fork or download this repository):
 
 # Navigate to your "Documents" folder
 cd ~/Documents
