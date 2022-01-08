@@ -1,17 +1,17 @@
-Exercise 1
+**Exercise 1**
 
 This exercise is a brief review of terminal commands. Like all exercises, you can see the answers in the complete branch.
 
 Open up your command-line terminal, and perform the following tasks (no need to fork or download this repository):
 
 # Navigate to your "Documents" folder
-cd ~/Documents
+cd
 
 # Create a new folder called "quick-exercise"
 mkdir quick-exercise
 
 # Navigate into that folder
-cd quick-exercise
+cd 
 
 # Using the text-edit of your choice (e.g., Atom), create a new (empty) file
 # called "constitution.txt" inside the "quick-exercise" folder you made
@@ -34,13 +34,13 @@ For windows:
 more constitution.txt
 
 # Navigate to the "Desktop" folder for your machine
-cd ../../Desktop #path may vary
+cd 
 
 # Display the contents of the "Documents/quick-exercise/constitution.txt" file in the Terminal
 # *without changing directories again!*
-cat ../Documents/quick-exercise/constitution.txt
+cat fillname 
 # cat shows entire contents in one dump; less is also and acceptable command
 
 # Bonus: Create 10 files with one single command in your terminal. Then delete them all!
-touch myFile{1..10}.txt  # Google to learn more about brace expansion and the "touch" command
+touch myFile{1..10}.txt  
 rm myFile*.txt # Google to learn about Wildcards
